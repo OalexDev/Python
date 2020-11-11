@@ -1,4 +1,4 @@
-n = input('Digite algo: ')
+n = input('Entre com um valor: ')
 print('Esse número é', (type(n)))
 print('Ele é númerico?', n.isnumeric())
 print('Ele é alfabético?', n.isalpha())
